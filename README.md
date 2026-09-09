@@ -13,6 +13,7 @@ Computer Science undergraduate at the National University of Singapore (from Aug
 | [**Firefighter Leave Planner**](https://github.com/Shahu-123/firefighter-leave-planner) | Telegram LLM agent with Google Sheets tools, then a spreadsheet engine in VBA and Apps Script. 41 firefighters, 400+ requests, zero double-bookings. | n8n, OpenAI, Google Sheets, Python, VBA, Apps Script |
 | [**Receipt Claim Generator**](https://github.com/Shahu-123/receipt-claim-generator) | Receipt photos to a completed finance claim form. Saved about six hours a week per officer. | Node.js, AWS Textract, Bedrock, OpenAI, docxtemplater |
 | [**Firefighter Food Ordering**](https://github.com/Shahu-123/firefighter-food-ordering) | Real-time group meal orders and PayNow payment tracking for a fire station. | React, Express, MongoDB, Socket.io |
+| [**Bilingual RAG Chatbot**](https://github.com/Shahu-123/bilingual-rag-chatbot) | English and Chinese documentation chatbot built during a 2023 data science internship, used by the company's alpha testers with a feedback loop on every answer. | Python, OpenAI, SQLite, AWS Lambda, Amplify |
 
 ## Computer vision and 3D
 
@@ -25,7 +26,6 @@ Computer Science undergraduate at the National University of Singapore (from Aug
 | Project | What it is | Stack |
 |---|---|---|
 | [**SoCLaaS Playground**](https://github.com/Shahu-123/soclaas-playground) | Streaming chat, live transcription and an interruptible voice assistant with local TTS, on top of NUS's LLM API. | FastAPI, vanilla JS, WebAudio, Kokoro |
-| [**Bilingual RAG Chatbot**](https://github.com/Shahu-123/bilingual-rag-chatbot) | English and Chinese documentation chatbot from a 2023 data science internship. | Python, OpenAI, SQLite, AWS Lambda |
 | [**Atlas**](https://github.com/Shahu-123/agentic-os) | An interactive concept for an agent-first operating system: trust ledger, memory with provenance, rewind. [Live demo](https://shahu-123.github.io/agentic-os/). | HTML, CSS, JavaScript |
 | [**Renewal Rescue**](https://github.com/Shahu-123/renewal-rescue) | Churn-prevention orchestrator from the NAISC x Workato hackathon: one Slack command fans out to OpenAI, Salesforce, Jira and Slack. | Workato, Next.js, TypeScript |
 
