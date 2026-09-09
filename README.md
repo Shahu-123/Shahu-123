@@ -19,7 +19,7 @@ Computer Science undergraduate at the National University of Singapore (from Aug
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**SCDF Lifesaver**](https://github.com/Shahu-123/scdf-lifesaver) | iPhone LiDAR capture app and cloud GPU pipeline reconstructing buildings as 3D Gaussian Splats, with depth-supervised training and a live streaming trainer, viewed over Google Photorealistic 3D Tiles. | Swift, ARKit, PyTorch, gsplat, nerfstudio, three.js |
+| [**3D Rendering Incident Scene**](https://github.com/Shahu-123/3D-Rendering-Incident-Scene) | iPhone LiDAR capture app and cloud GPU pipeline reconstructing buildings as 3D Gaussian Splats, with depth-supervised training and a live streaming trainer, viewed over Google Photorealistic 3D Tiles. | Swift, ARKit, PyTorch, gsplat, nerfstudio, three.js |
 
 ## AI and agents
 
