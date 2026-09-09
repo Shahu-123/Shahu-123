@@ -26,8 +26,15 @@ Computer Science undergraduate at the National University of Singapore (from Aug
 | Project | What it is | Stack |
 |---|---|---|
 | [**SoCLaaS Playground**](https://github.com/Shahu-123/soclaas-playground) | Streaming chat, live transcription and an interruptible voice assistant with local TTS, on top of NUS's LLM API. | FastAPI, vanilla JS, WebAudio, Kokoro |
+| [**Conversational Fine-tuning with PEFT**](https://github.com/Shahu-123/conversational-finetuning-peft) | LoRA fine-tuning of a 1B dialogue model on Instagram message history so it replies in a friend's voice, with semantic conversation segmentation and a persona-conditioned chat loop. [Write-up on AI Mind](https://pub.aimind.so/how-i-transformed-my-friends-into-ai-agents-921daee10485). | PyTorch, Transformers, PEFT, sentence-transformers |
 | [**Atlas**](https://github.com/Shahu-123/agentic-os) | An interactive concept for an agent-first operating system: trust ledger, memory with provenance, rewind. [Live demo](https://shahu-123.github.io/agentic-os/). | HTML, CSS, JavaScript |
 | [**Renewal Rescue**](https://github.com/Shahu-123/renewal-rescue) | Churn-prevention orchestrator from the NAISC x Workato hackathon: one Slack command fans out to OpenAI, Salesforce, Jira and Slack. | Workato, Next.js, TypeScript |
+
+## Research
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**LSTM Optimization Algorithm Research**](https://github.com/Shahu-123/LSTM-Optimization-Algorithm-Research) | IB Extended Essay (Grade A): SGD vs Adam vs RMSProp for bidirectional LSTM sentiment analysis on 1.6M-tweet Sentiment140 and a three-class dataset, compared on F1 and epochs to convergence. | TensorFlow, Keras, scikit-learn |
 
 ## Apple Swift Student Challenge
 
