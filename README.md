@@ -1,6 +1,6 @@
 # Shahu Wagh
 
-Computer Science undergraduate at the National University of Singapore (from August 2026). I build tools that real people rely on, and I have spent the last two years shipping them to firefighters, students and my family.
+Computer Science undergraduate at the National University of Singapore (from August 2026). I build tools that real people rely on, and I have spent the last two years shipping them to firefighters, students and other users.
 
 [shahuwagh.com](https://www.shahuwagh.com) · [linkedin.com/in/shahuwagh](https://www.linkedin.com/in/shahuwagh) · shahu.wagh@gmail.com
 
