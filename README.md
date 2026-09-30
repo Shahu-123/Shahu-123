@@ -34,6 +34,7 @@ Computer Science undergraduate at the National University of Singapore (from Aug
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**Quantization with Phi**](https://github.com/Shahu-123/Quantization-with-Phi) | Can the redundancy of base-φ digits (φ² = φ + 1, so 100_φ = 011_φ) be chosen per weight to skip more digit-plane blocks in quantised neural networks than binary? Started from an Armstrong-number exercise in class. Exact enumeration of 3^K signed digit strings, a shared block optimiser for both bases, matched-MSE comparison over Gaussian and Laplacian matrices. Honest negative result: φ needs 1.04 to 1.12× the active block-ops of signed binary. | NumPy, PyTorch, Matplotlib |
 | [**LSTM Optimization Algorithm Research**](https://github.com/Shahu-123/LSTM-Optimization-Algorithm-Research) | IB Extended Essay (Grade A): SGD vs Adam vs RMSProp for bidirectional LSTM sentiment analysis on 1.6M-tweet Sentiment140 and a three-class dataset, compared on F1 and epochs to convergence. | TensorFlow, Keras, scikit-learn |
 
 ## Apple Swift Student Challenge
