@@ -19,6 +19,7 @@ Computer Science undergraduate at the National University of Singapore (from Aug
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**GTFO: Get the fire out**](https://github.com/Shahu-123/GTFO) | Film a room with your phone and get a 3D model of it, then a deterministic fire and escape simulation that shows which items and areas make it dangerous and why: two-zone fire model validated against the MQH correlation, an occupant who wakes, crawls under smoke and loses the way, and a risk analysis over every likely ignition source with floor danger maps. | Python, FastAPI, Pydantic, OpenAI structured outputs, Three.js |
 | [**3D Rendering Incident Scene**](https://github.com/Shahu-123/3D-Rendering-Incident-Scene) | iPhone LiDAR capture app and cloud GPU pipeline reconstructing buildings as 3D Gaussian Splats, with depth-supervised training and a live streaming trainer, viewed over Google Photorealistic 3D Tiles. | Swift, ARKit, PyTorch, gsplat, nerfstudio, three.js |
 
 ## AI and agents
